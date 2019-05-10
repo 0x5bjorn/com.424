@@ -3,7 +3,7 @@ Language: Python, Python3
 
 Libraries: Pcapy, Impacket
 
-Run:
+Compline and run:
 ```
 python psd.py [test file]
 python psd_python3 [test file]
