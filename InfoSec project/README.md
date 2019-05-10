@@ -1,10 +1,5 @@
 # Offline Port Scan Detector
-Capable of detecting 5 types of scans:
-Halfopen scans
-Null scans
-UDP scans
-XMAS scans
-ICMP echo requests
+Capable of detecting 5 types of port scans: Halfopen scans, Null scan, UDP scans, XMAS scans, ICMP echo requests
 
 Language: Python, Python3
 
