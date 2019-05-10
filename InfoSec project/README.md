@@ -6,6 +6,6 @@ Libraries: Pcapy, Impacket
 
 Run:
 ```
-./psd.py [test file]
-./psd_python3 [test file]
+python psd.py [test file]
+python psd_python3 [test file]
 ```
