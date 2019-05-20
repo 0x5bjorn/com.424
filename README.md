@@ -1,2 +1,2 @@
-# com-424
+# com.424
 Information Security course project
